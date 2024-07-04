@@ -3,3 +3,5 @@
   2. Compilar
   3. Vincular os pinos
   4. Flashar na placa
+
+## Modelo da placa: EP3C16F484C6
